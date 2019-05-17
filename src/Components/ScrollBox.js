@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+/**
+ * 5강 ref: DOM에 이름달기
+ */
 class ScrollBox extends Component {
 
     scrollToBottom = () =>{
