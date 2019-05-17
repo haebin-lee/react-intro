@@ -1,3 +1,7 @@
+https://velopert.com/reactjs-tutorials
+도서 : 리액트를 다루는 기술 (by. 김민준 )
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
